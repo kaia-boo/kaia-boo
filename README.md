@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Robson Ramos 👋</h1>
 
-<!--
-**kaia-boo/kaia-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cientista de Dados | Desenvolvedor Web | Entusiasta de IA & Automação</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ci%C3%AAncia+de+Dados+%7C+Python;Desenvolvimento+Web+%7C+HTML+%2F+CSS+%2F+Bootstrap;Automa%C3%A7%C3%A3o+e+Aprendizado+de+M%C3%A1quina" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando com **Ciência de Dados** e **Desenvolvimento Web**
+- 🐍 Uso **Python** para automação de processos e projetos de **aprendizado de máquina / IA**
+- 🎨 Construo interfaces com **HTML, CSS e Bootstrap**
+- 🌱 Sempre aprendendo novas tecnologias e ferramentas
+- 💬 Me chame para trocar uma ideia sobre dados, código ou tecnologia!
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,git,github,vscode,linux,mysql,sklearn,anaconda" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaia-boo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaia-boo&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaia-boo&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaia-boo&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaia-boo&style=flat-square&color=blue" alt="Visitor count" />
+</p>
+
+<p align="center"><i>Feito com 💙 por Robson Ramos</i></p>
